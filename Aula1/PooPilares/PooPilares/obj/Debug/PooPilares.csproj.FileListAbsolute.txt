@@ -1,0 +1,7 @@
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\obj\Debug\PooPilares.csproj.AssemblyReference.cache
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\obj\Debug\PooPilares.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\bin\Debug\PooPilares.exe.config
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\bin\Debug\PooPilares.exe
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\bin\Debug\PooPilares.pdb
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\obj\Debug\PooPilares.exe
+C:\Users\fhalv\source\repos\PooPilares\PooPilares\obj\Debug\PooPilares.pdb

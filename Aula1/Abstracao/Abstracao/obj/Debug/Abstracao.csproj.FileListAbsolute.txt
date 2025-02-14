@@ -1,0 +1,7 @@
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\bin\Debug\Abstracao.exe.config
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\bin\Debug\Abstracao.exe
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\bin\Debug\Abstracao.pdb
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\obj\Debug\Abstracao.csproj.AssemblyReference.cache
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\obj\Debug\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\obj\Debug\Abstracao.exe
+C:\Users\fhalv\source\repos\Abstracao\Abstracao\obj\Debug\Abstracao.pdb
