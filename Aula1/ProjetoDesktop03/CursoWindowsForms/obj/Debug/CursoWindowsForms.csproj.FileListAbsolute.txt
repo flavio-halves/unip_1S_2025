@@ -1,0 +1,50 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos 2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\iCloudDrive\Unip 2024\Aulas\Orientação Objetos C#\Projetos_Desktop_2024\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Aula1\ProjetoDesktop01\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
