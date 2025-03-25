@@ -1,0 +1,6 @@
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\bin\Debug\Sistema.Entidade.dll
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\bin\Debug\Sistema.Entidade.pdb
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\obj\Debug\Sistema.Entidade.csproj.AssemblyReference.cache
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\obj\Debug\Sistema.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\obj\Debug\Sistema.Entidade.dll
+C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Entidade\obj\Debug\Sistema.Entidade.pdb
