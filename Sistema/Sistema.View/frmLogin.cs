@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Sistema.View
 {
-    public partial class Form1 : Form
+    public partial class frmLogin : Form
     {
-        public Form1()
+        public frmLogin()
         {
             InitializeComponent();
         }
@@ -21,6 +21,12 @@ namespace Sistema.View
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            frmCadUsuario form = new frmCadUsuario();
+            form.Show();
         }
     }
 }

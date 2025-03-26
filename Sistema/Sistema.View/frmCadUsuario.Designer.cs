@@ -54,6 +54,7 @@ namespace Sistema.View
             this.btnNovo.TabIndex = 0;
             this.btnNovo.Text = "Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
+            this.btnNovo.Click += new System.EventHandler(this.btnNovo_Click);
             // 
             // btnSalvar
             // 
@@ -87,7 +88,8 @@ namespace Sistema.View
             // 
             // txtNome
             // 
-            this.txtNome.Location = new System.Drawing.Point(240, 57);
+            this.txtNome.Enabled = false;
+            this.txtNome.Location = new System.Drawing.Point(240, 44);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(253, 22);
             this.txtNome.TabIndex = 4;
@@ -95,7 +97,7 @@ namespace Sistema.View
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(173, 57);
+            this.label1.Location = new System.Drawing.Point(173, 44);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(49, 17);
             this.label1.TabIndex = 5;
@@ -131,6 +133,7 @@ namespace Sistema.View
             // 
             // txtCodigo
             // 
+            this.txtCodigo.Enabled = false;
             this.txtCodigo.Location = new System.Drawing.Point(240, 85);
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(253, 22);
@@ -138,13 +141,15 @@ namespace Sistema.View
             // 
             // txtUsuario
             // 
+            this.txtUsuario.Enabled = false;
             this.txtUsuario.Location = new System.Drawing.Point(240, 123);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(265, 22);
+            this.txtUsuario.Size = new System.Drawing.Size(253, 22);
             this.txtUsuario.TabIndex = 10;
             // 
             // txtSenha
             // 
+            this.txtSenha.Enabled = false;
             this.txtSenha.Location = new System.Drawing.Point(240, 169);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.Size = new System.Drawing.Size(253, 22);
@@ -152,9 +157,12 @@ namespace Sistema.View
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(111, 279);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(482, 150);
@@ -180,6 +188,7 @@ namespace Sistema.View
             this.Controls.Add(this.btnNovo);
             this.Name = "frmCadUsuario";
             this.Text = "frmCadUsuario";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

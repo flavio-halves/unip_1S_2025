@@ -1,7 +1,7 @@
 ﻿
 namespace Sistema.View
 {
-    partial class Form1
+    partial class frmLogin
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -29,14 +29,26 @@ namespace Sistema.View
         /// </summary>
         private void InitializeComponent()
         {
+            this.btnLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // Form1
+            // btnLogin
+            // 
+            this.btnLogin.Location = new System.Drawing.Point(182, 187);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(98, 37);
+            this.btnLogin.TabIndex = 0;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
+            // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Controls.Add(this.btnLogin);
+            this.Name = "frmLogin";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -44,6 +56,8 @@ namespace Sistema.View
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnLogin;
     }
 }
 

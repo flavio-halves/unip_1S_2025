@@ -21,5 +21,20 @@ namespace Sistema.View
         {
 
         }
+
+
+        private void HabitarCampos()
+        {
+
+            txtCodigo.Enabled = false;
+            txtNome.Enabled = true;
+            txtSenha.Enabled = true;
+            txtUsuario.Enabled = true;
+        }
+
+        private void btnNovo_Click(object sender, EventArgs e)
+        {
+            HabitarCampos();
+        }
     }
 }
