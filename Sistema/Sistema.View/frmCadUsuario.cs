@@ -7,11 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Sistema.Entidade;
+using Sistema.Model;
+
+
 
 namespace Sistema.View
 {
     public partial class frmCadUsuario : Form
     {
+        UsuarioEnt objTabela = new UsuarioEnt();
 
         private string opc;
         public frmCadUsuario()
@@ -55,10 +60,28 @@ namespace Sistema.View
                 case "Novo":
                     HabitarCampos();
                     LimparCampos();
+
                     break;
 
                 case "Salvar":
+
+                    try
+                    {
+                        objTabela.Nome = txtNome.Text;
+                        objTabela.Usuario = txtUsuario.Text;
+                        objTabela.Senha = txtSenha.Text;
+
+                        int x = UsuarioModel.Inserir(objTabela);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Ocorreu um erro ao Salvar");
+                        throw;     
+               
+                    }
                     break;
+
+
 
                 case "Excluir":
                     break;
@@ -73,6 +96,8 @@ namespace Sistema.View
         {
             opc = "Salvar";
             iniciarOpc();
+
+            
         }
 
         private void btnExcluir_Click(object sender, EventArgs e)
