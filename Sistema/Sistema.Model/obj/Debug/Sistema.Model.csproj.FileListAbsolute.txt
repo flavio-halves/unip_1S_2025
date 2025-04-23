@@ -9,3 +9,15 @@ C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Model\obj\Debug\Sistema.Model.cs
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CopyComplete
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Model\obj\Debug\Sistema.Model.dll
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.Model\obj\Debug\Sistema.Model.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\obj\Debug\Sistema.Model.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\obj\Debug\Sistema.Model.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.Model.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.Model.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.Entidade.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.dll.config
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\bin\Debug\Sistema.Entidade.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CopyComplete

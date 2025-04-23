@@ -30,3 +30,6 @@ C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\obj\Debug\Sist
 C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\obj\Debug\Sistema.View.exe
 C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\obj\Debug\Sistema.View.pdb
 C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\obj\Debug\Sistema.View.frmLogin.resources
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\bin\Debug\Sistema.DAO.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\bin\Debug\Sistema.DAO.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.View\bin\Debug\Sistema.DAO.dll.config

@@ -7,3 +7,13 @@ C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CopyComplete
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.dll
 C:\Users\fhalv\Documents\GitHub\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.dll.config
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\bin\Debug\Sistema.Entidade.dll
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\bin\Debug\Sistema.Entidade.pdb
+C:\Users\fhalv\Documents\GitHub\unip_1S_2025\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CopyComplete

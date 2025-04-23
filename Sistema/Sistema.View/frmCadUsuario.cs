@@ -72,12 +72,23 @@ namespace Sistema.View
                         objTabela.Senha = txtSenha.Text;
 
                         int x = UsuarioModel.Inserir(objTabela);
+
+                        if (x > 0)
+                        {
+
+                            MessageBox.Show(string.Format("Usuario {0} foi inserido com sucesso", txtNome));
+                        }
+                        else
+                        {
+                            MessageBox.Show("Ocorreu um erro ao inserir");
+                        }
+                      
                     }
                     catch (Exception ex)
                     {
-                        MessageBox.Show("Ocorreu um erro ao Salvar");
-                        throw;     
-               
+                        MessageBox.Show("Ocorreu um erro ao Salvar" + ex.Message);
+                        throw;
+
                     }
                     break;
 
