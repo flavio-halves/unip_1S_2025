@@ -11,9 +11,7 @@ namespace Sistema.DAO
 {
     public class UsuarioDAO
     {
-       // public class Inserir
-        //{
-            //private UsuarioEnt objTabela;
+      
 
             public int Inserir(UsuarioEnt objTabela)
             {
@@ -35,9 +33,10 @@ namespace Sistema.DAO
                     int qtd = cn.ExecuteNonQuery();
                     Console.Write(qtd);
                     return qtd;
+                
 
                 }
             }
         }
     }
-//}
+

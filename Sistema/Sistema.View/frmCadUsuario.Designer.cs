@@ -47,7 +47,7 @@ namespace Sistema.View
             // 
             // btnNovo
             // 
-            this.btnNovo.Location = new System.Drawing.Point(171, 212);
+            this.btnNovo.Location = new System.Drawing.Point(91, 173);
             this.btnNovo.Name = "btnNovo";
             this.btnNovo.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnNovo.Size = new System.Drawing.Size(94, 31);
@@ -58,7 +58,7 @@ namespace Sistema.View
             // 
             // btnSalvar
             // 
-            this.btnSalvar.Location = new System.Drawing.Point(271, 212);
+            this.btnSalvar.Location = new System.Drawing.Point(191, 173);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnSalvar.Size = new System.Drawing.Size(94, 31);
@@ -69,7 +69,7 @@ namespace Sistema.View
             // 
             // btnExcluir
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(371, 212);
+            this.btnExcluir.Location = new System.Drawing.Point(291, 173);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnExcluir.Size = new System.Drawing.Size(94, 31);
@@ -80,7 +80,7 @@ namespace Sistema.View
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(471, 212);
+            this.btnEditar.Location = new System.Drawing.Point(391, 173);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnEditar.Size = new System.Drawing.Size(94, 31);
@@ -92,7 +92,7 @@ namespace Sistema.View
             // txtNome
             // 
             this.txtNome.Enabled = false;
-            this.txtNome.Location = new System.Drawing.Point(240, 44);
+            this.txtNome.Location = new System.Drawing.Point(160, 56);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(253, 22);
             this.txtNome.TabIndex = 4;
@@ -100,7 +100,7 @@ namespace Sistema.View
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(173, 44);
+            this.label1.Location = new System.Drawing.Point(93, 56);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(49, 17);
             this.label1.TabIndex = 5;
@@ -109,7 +109,7 @@ namespace Sistema.View
             // label222
             // 
             this.label222.AutoSize = true;
-            this.label222.Location = new System.Drawing.Point(171, 88);
+            this.label222.Location = new System.Drawing.Point(91, 31);
             this.label222.Name = "label222";
             this.label222.Size = new System.Drawing.Size(56, 17);
             this.label222.TabIndex = 6;
@@ -119,7 +119,7 @@ namespace Sistema.View
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(173, 128);
+            this.label2.Location = new System.Drawing.Point(93, 89);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(61, 17);
             this.label2.TabIndex = 7;
@@ -128,7 +128,7 @@ namespace Sistema.View
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(174, 174);
+            this.label3.Location = new System.Drawing.Point(94, 117);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(53, 17);
             this.label3.TabIndex = 8;
@@ -137,15 +137,15 @@ namespace Sistema.View
             // txtCodigo
             // 
             this.txtCodigo.Enabled = false;
-            this.txtCodigo.Location = new System.Drawing.Point(240, 85);
+            this.txtCodigo.Location = new System.Drawing.Point(160, 28);
             this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.Size = new System.Drawing.Size(253, 22);
+            this.txtCodigo.Size = new System.Drawing.Size(47, 22);
             this.txtCodigo.TabIndex = 9;
             // 
             // txtUsuario
             // 
             this.txtUsuario.Enabled = false;
-            this.txtUsuario.Location = new System.Drawing.Point(240, 123);
+            this.txtUsuario.Location = new System.Drawing.Point(160, 84);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(253, 22);
             this.txtUsuario.TabIndex = 10;
@@ -153,7 +153,7 @@ namespace Sistema.View
             // txtSenha
             // 
             this.txtSenha.Enabled = false;
-            this.txtSenha.Location = new System.Drawing.Point(240, 169);
+            this.txtSenha.Location = new System.Drawing.Point(160, 112);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.Size = new System.Drawing.Size(253, 22);
             this.txtSenha.TabIndex = 11;
@@ -163,19 +163,19 @@ namespace Sistema.View
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(111, 279);
+            this.dataGridView1.Location = new System.Drawing.Point(31, 240);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(482, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(482, 185);
             this.dataGridView1.TabIndex = 12;
             // 
             // frmCadUsuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(535, 437);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtSenha);
             this.Controls.Add(this.txtUsuario);
